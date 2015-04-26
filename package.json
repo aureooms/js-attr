@@ -1,0 +1,34 @@
+{
+	"keywords": [
+		"attr",
+		"attribute",
+		"bricks",
+		"javascript",
+		"js",
+		"len",
+		"length"
+	],
+	"homepage": "http://aureooms.github.io/js-attr/",
+	"dependencies": {},
+	"license": "AGPL-3.0",
+	"version": "0.0.0",
+	"scripts": {
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"doc": "./node_modules/.bin/groc"
+	},
+	"devDependencies": {
+		"aureooms-node-package": "^4.1.0"
+	},
+	"repository": {
+		"url": "https://github.com/aureooms/js-attr.git",
+		"type": "git"
+	},
+	"name": "aureooms-js-attr",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-attr/issues"
+	},
+	"main": "js/dist/attr.js",
+	"author": "aureooms",
+	"description": "attribute code bricks for JavaScript"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "attr",
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"attr.js"
+		]
+	},
+	"src": "js/src/",
+	"out": "js/dist/",
+	"debug": false
+}
