@@ -3,6 +3,10 @@
 	'use strict';
 
 
-/* js/src/dummy.js */
+/* js/src/len.js */
+
+var len = "length" ;
+
+exports.len = len ;
 
 })(typeof exports === 'undefined' ? this['attr'] = {} : exports);

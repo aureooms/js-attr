@@ -1,7 +1,7 @@
 [js-attr](http://aureooms.github.io/js-attr)
 ==
 
-attribute code bricks for JavaScript
+Attribute code bricks for JavaScript.
 
 [![NPM license](http://img.shields.io/npm/l/aureooms-js-attr.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-attr/master/LICENSE)
 [![NPM version](http://img.shields.io/npm/v/aureooms-js-attr.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-attr)
@@ -15,6 +15,8 @@ attribute code bricks for JavaScript
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-attr.svg?style=flat)](https://github.com/aureooms/js-attr/issues)
 [![Inline docs](http://inch-ci.org/github/aureooms/js-attr.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-attr)
 
+## Installation
+
 Can be managed through [duo](https://github.com/duojs/duo),
 [component](https://github.com/componentjs/component),
 [bower](https://github.com/bower/bower), or
@@ -22,4 +24,16 @@ Can be managed through [duo](https://github.com/duojs/duo),
 
 ```js
 let attr = require( "aureooms-js-attr" ) ;
+```
+
+## Usage
+
+```js
+( "abcd" )[attr.len] ; // 4
+
+( new Array( 17 ) )[attr.len] ; // 17
+
+Object.keys( { a : 0 , b : 0 , c : 0 } )[attr.len] ; // 3
+
+( function ( a , b ) { return a + b ; } )[attr.len] ; // 2
 ```
