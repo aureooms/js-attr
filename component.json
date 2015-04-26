@@ -3,7 +3,7 @@
 	"repo": "aureooms/js-attr",
 	"license": "AGPL-3.0",
 	"main": "js/dist/attr.js",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"scripts": [
 		"js/dist/attr.js"
 	],

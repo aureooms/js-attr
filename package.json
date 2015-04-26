@@ -11,7 +11,7 @@
 	"homepage": "http://aureooms.github.io/js-attr/",
 	"dependencies": {},
 	"license": "AGPL-3.0",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"scripts": {
 		"test": "./node_modules/.bin/aureooms-node-package-test",
 		"build": "./node_modules/.bin/aureooms-node-package-build",
