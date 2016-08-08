@@ -18,7 +18,7 @@
 		"doc": "./node_modules/.bin/groc"
 	},
 	"devDependencies": {
-		"aureooms-node-package": "^6.0.1"
+		"aureooms-node-package": "^7.0.0"
 	},
 	"repository": {
 		"url": "https://github.com/aureooms/js-attr.git",
