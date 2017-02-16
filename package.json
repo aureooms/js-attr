@@ -24,7 +24,7 @@
 		"url": "https://github.com/aureooms/js-attr.git",
 		"type": "git"
 	},
-	"name": "aureooms-js-attr",
+	"name": "@aureooms/js-attr",
 	"bugs": {
 		"url": "https://github.com/aureooms/js-attr/issues"
 	},
