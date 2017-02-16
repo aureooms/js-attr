@@ -3,7 +3,7 @@
 
 Attribute code bricks for JavaScript.
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-attr.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-attr/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-attr.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-attr/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-attr.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-attr)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-attr.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-attr)
 [![Build Status](https://img.shields.io/travis/aureooms/js-attr.svg?style=flat)](https://travis-ci.org/aureooms/js-attr)
