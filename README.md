@@ -1,4 +1,4 @@
-[js-attr](http://aureooms.github.io/js-attr)
+[js-attr](http://make-github-pseudonymous-again.github.io/js-attr)
 ==
 
 Attribute code bricks for JavaScript.
